@@ -1,7 +1,7 @@
-1-- git clone https://github.com/Ha3MrX/DDos-Attack
+1-- git clone https://github.com/Harezmi1/BlackMafiaDdosAttacker.git
 
-2-- cd DDos-Attack
+2-- cd BlackMafiaDdosAttacker
 
-3-- chmod +x ddos-attack.py
+3-- chmod +x DDos.py
 
-4-- python ddos-attack.py
+4-- python DDos.py
